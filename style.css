@@ -1,0 +1,65 @@
+
+#col1, #col2{
+    /* border:2px solid red;    */
+    height:35rem;
+}
+.btn{
+    width:75%;
+}
+#txt{
+    padding-top: 75px;
+}
+/* .vertical {
+    border-left: 3px solid rgb(92, 92, 160);
+    height: 300px;
+    position:absolute;
+    left: 50%;
+  } */
+
+
+   /* List.html code */
+
+   #nav{
+    background-color: rgb(64, 81, 156);
+
+   }
+
+  .button-solid {
+      border: none;
+      background-color: rgb(64, 81, 156);
+  }
+  button-solid:focus {
+      border: none;
+      outline: none;
+  }
+
+.nav-item{
+  height:50px;
+ 
+}
+
+/* Table */
+table,
+th,
+td,
+tr {
+    border: 1px solid black;
+}
+    th,tr,
+    td {
+        padding: 20px;
+    }
+     
+    th {
+      text-align: center;
+    }
+
+    #w1{
+      width: 7%;
+    }
+    #w2{
+      width: 88%;
+    }
+    #w3{
+      width: 5%;
+    }
